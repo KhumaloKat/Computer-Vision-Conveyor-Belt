@@ -1,0 +1,3 @@
+0 Nothing
+1 Airplane
+2 Car
