@@ -10,6 +10,8 @@
 
 -Pycharm Community Edition.
 
+-Arduino IDE
+
 ***Packages installed***
 
 -Mediapipe.
