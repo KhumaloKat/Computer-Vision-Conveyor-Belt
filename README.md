@@ -3,6 +3,7 @@
 ## FEATURES
 
 -Script 1: Conveyor uses color to classify and Count objects detected
+
 -Script 2: Conveyor used trained Keras model to classify and Count objects detected
 
 ## INSTALLATION:
